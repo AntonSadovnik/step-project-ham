@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@splidejs/splide": "^3.6.9",
+    "masonry-layout": "^4.2.2"
+  }
+}
